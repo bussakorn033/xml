@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Hello Toast Challenge</string>
+    <string name="toast_message">toast message</string>
+    <string name="happy_birthday">happy birthday</string>
+    <string name="count_initial_value">0</string>
+    <string name="toast_countUp">toast count up</string>
+    <string name="toast_countDown">toast count down</string>
+    <string name="happy_birthday_sam">Happy Birthday, Sam!</string>
+    <string name="from_nanny">From NanNy</string>
+    <string name="todo">TODO</string>
+    <string name="go_back">go back</string>
+</resources>
